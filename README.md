@@ -1,8 +1,4 @@
-# Why Most ‘Agentic AI’ Is Not Agentic
-
-### Continuity, Authorship, and the Structural Conditions of Agency
-
----
+# Why Most ‘Agentic AI’ Is Not Agentic: Continuity, Authorship, and the Structural Conditions of Agency
 
 by Peter Kahl, 2026-01-29
 
@@ -22,15 +18,17 @@ agentic ai; artificial agency; continuity pressure; authorship; optimisation wit
 
 ## Download
 
-- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Why_Most_Agentic_AI_Is_Not_2026_01_29.pdf) ✅ _latest_
+- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Why_Most_Agentic_AI_Is_Not_2026_02_01.pdf) ✅ _latest_
+- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Why_Most_Agentic_AI_Is_Not_2026_01_29.pdf)
 
 ## Cite this work
 
-- Kahl, Peter. 2026. “Why Most ‘Agentic AI’ Is Not Agentic: Continuity, Authorship, and the Structural Conditions of Agency.” Preprint. https://doi.org/10.5281/zenodo.18413863
+- Kahl, Peter. 2026. “Why Most ‘Agentic AI’ Is Not Agentic: Continuity, Authorship, and the Structural Conditions of Agency (v2).” Preprint. https://doi.org/10.5281/zenodo.18413863
 
 ## Publisher & Licence
 
-Version v1 published in London by Peter Kahl, 2026-01-29.
+Version v1 published in London by Peter Kahl, 2026-01-29.\
+Version v2 published in London by Peter Kahl, 2026-02-01.
 
 © 2026 Peter Kahl. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
