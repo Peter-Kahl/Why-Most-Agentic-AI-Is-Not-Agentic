@@ -18,9 +18,9 @@ agentic ai; artificial agency; continuity pressure; authorship; optimisation wit
 
 ## Download
 
-- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Structural_Conditions_of_Agency_v3_2026_02_23.pdf) ✅ _latest_
-- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Why_Most_Agentic_AI_Is_Not_2026_02_01.pdf)
-- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Why_Most_Agentic_AI_Is_Not_2026_01_29.pdf)
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Structural-Conditions-of-Agency-and-the-Misattribution-of-Agentic-Artificial-Intelligence/master/Kahl_P_Structural_Conditions_of_Agency_v3_2026_02_23.pdf) ✅ _latest_
+- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/Structural-Conditions-of-Agency-and-the-Misattribution-of-Agentic-Artificial-Intelligence/master/Kahl_P_Why_Most_Agentic_AI_Is_Not_2026_02_01.pdf)
+- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Structural-Conditions-of-Agency-and-the-Misattribution-of-Agentic-Artificial-Intelligence/master/Why_Most_Agentic_AI_Is_Not_2026_01_29.pdf)
 
 ## Cite this work
 
