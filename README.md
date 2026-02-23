@@ -1,8 +1,8 @@
-# Why Most ‘Agentic AI’ Is Not Agentic: Continuity, Authorship, and the Structural Conditions of Agency
+# Structural Conditions of Agency and the Misattribution of Agentic Artificial Intelligence
 
-by Peter Kahl, 2026-01-29
+by Peter Kahl, 2026-02-23
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18413863-blue.svg)](https://doi.org/10.5281/zenodo.18413863) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18743351-blue.svg)](https://doi.org/10.5281/zenodo.18743351) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ## Abstract
 
@@ -18,17 +18,19 @@ agentic ai; artificial agency; continuity pressure; authorship; optimisation wit
 
 ## Download
 
-- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Why_Most_Agentic_AI_Is_Not_2026_02_01.pdf) ✅ _latest_
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Structural_Conditions_of_Agency_v3_2026_02_23.pdf) ✅ _latest_
+- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Kahl_P_Why_Most_Agentic_AI_Is_Not_2026_02_01.pdf)
 - [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Why-Most-Agentic-AI-Is-Not-Agentic/master/Why_Most_Agentic_AI_Is_Not_2026_01_29.pdf)
 
 ## Cite this work
 
-- Kahl, Peter. 2026. “Why Most ‘Agentic AI’ Is Not Agentic: Continuity, Authorship, and the Structural Conditions of Agency (v2).” Preprint. https://doi.org/10.5281/zenodo.18413863
+- Kahl, Peter. 2026. “Structural Conditions of Agency and the Misattribution of Agentic Artificial Intelligence (v3).” Preprint. https://doi.org/10.5281/zenodo.18743351
 
 ## Publisher & Licence
 
 Version v1 published in London by Peter Kahl, 2026-01-29.\
-Version v2 published in London by Peter Kahl, 2026-02-01.
+Version v2 published in London by Peter Kahl, 2026-02-01.\
+Version v3 published in London by Peter Kahl, 2026-02-23.
 
 © 2026 Peter Kahl. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
